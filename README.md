@@ -10,11 +10,17 @@ Symbolic-modified-nodal-analysis -> SymNode
 ```
 from SymNode import SymMNA # in part netlist2prompt.ipynb
 ```
-## Hand-drawn Circuit Recognizer
+### train yolo and covert circuit to netlist
+YOLO2NETLIST.ipynb
+### netlist to LLM
+netlist2prompt.ipynb
+
+## Reference
+### Hand-drawn Circuit Recognizer
 https://github.com/mahmut-aksakalli/circuit_recognizer
 
-## Symbolic-modified-nodal-analysis
+### Symbolic-modified-nodal-analysis
 https://github.com/Tiburonboy/Symbolic-modified-nodal-analysis
 
-## Deepseek
+### Deepseek
 https://github.com/deepseek-ai/DeepSeek-R1
