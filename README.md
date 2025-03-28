@@ -15,7 +15,7 @@ YOLO2NETLIST.ipynb
 ### netlist to LLM
 netlist2prompt.ipynb
 
-## Reference
+## References
 ### Hand-drawn Circuit Recognizer
 https://github.com/mahmut-aksakalli/circuit_recognizer
 
