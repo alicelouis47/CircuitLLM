@@ -1,5 +1,15 @@
 # CircuitLLM
-
+## Setup
+### setup libraries
+```
+git clone https://github.com/Tiburonboy/Symbolic-modified-nodal-analysis
+pip install -r /path/to/requirements.txt
+```
+### rename folder Symbolic-modified-nodal-analysis
+Symbolic-modified-nodal-analysis -> SymNode
+```
+from SymNode import SymMNA # in part netlist2prompt.ipynb
+```
 ## Hand-drawn Circuit Recognizer
 https://github.com/mahmut-aksakalli/circuit_recognizer
 
