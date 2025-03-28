@@ -1,0 +1,11 @@
+ollama
+langchain
+tabulate
+sympy
+roboflow
+ultralytics
+imutils
+numba
+cv2
+networkx
+matplotlib
